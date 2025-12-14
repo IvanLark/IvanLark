@@ -70,14 +70,12 @@ I'm a passionate full-stack developer and independent app developer with a stron
 An intelligent English learning application that integrates class management, word lookup, article reading, AI conversation and word review. Helps users learn English more efficiently through AI assistance and knowledge graphs.
 
 **Tech Stack:** React, Spring Boot, MySQL, MongoDB, Redis, RabbitMQ  
-**URL:** [geekgen.yifan.ink](https://geekgen.yifan.ink)  
 **Timeline:** Oct 2024 - Present
 
 ### DrawSee
 A revolutionary AI conversation platform that visualizes complex thinking through tree structures and canvas views, making AI communication like drawing knowledge maps on a thinking canvas.
 
 **Tech Stack:** React, Spring Boot, MySQL, MongoDB, Redis, RabbitMQ  
-**URL:** [drawsee.cn](https://drawsee.cn)  
 **Timeline:** Mar 2025 - Present
 
 ### Other Projects
